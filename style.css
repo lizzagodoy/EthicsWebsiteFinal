@@ -72,3 +72,7 @@ footer {
     margin: 20px 0;
     color: #666;
 }
+
+img{
+    max-width:800px;
+}
